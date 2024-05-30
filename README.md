@@ -1,8 +1,7 @@
 <h1>Hi, I'm Russell! 
+<h2>👨‍💻 Software Development Projects:</h2>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Security Audit Practice</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -18,6 +17,9 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>Certifications</h2>
+
+- [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
