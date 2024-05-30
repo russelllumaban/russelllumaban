@@ -20,7 +20,7 @@
 <h2>Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
+- [San Diego State University Global Campus Cybersecurity Program](https://imgur.com/a/9DAuwdY)
 
 <h2> 🤳 Connect with me:</h2>
 
