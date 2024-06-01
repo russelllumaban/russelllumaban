@@ -7,10 +7,8 @@
   - [NIST CSF Incident Report Analysis](https://github.com/russelllumaban/NIST-CSF-Incident-Report-Analysis)
 - <b>File Permissions in Linux</b>
   - [Changing File Permissions in Linux](https://github.com/russelllumaban/FilePermissionsInLinux)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Apply Filters to SQL Queries</b>
+  - [SQL Query Filters)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
