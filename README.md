@@ -10,7 +10,7 @@
 - <b>Apply Filters to SQL Queries</b>
   - [SQL Query Filters](https://github.com/russelllumaban/SQLfilters)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Update a File Through a Python Algorithm)](https://github.com/russelllumaban/Python)
 
 <h2>Certifications</h2>
 
