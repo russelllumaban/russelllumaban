@@ -8,7 +8,7 @@
 - <b>File Permissions in Linux</b>
   - [Changing File Permissions in Linux](https://github.com/russelllumaban/FilePermissionsInLinux)
 - <b>Apply Filters to SQL Queries</b>
-  - [SQL Query Filters)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [SQL Query Filters](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
