@@ -11,7 +11,10 @@
   - [SQL Query Filters](https://github.com/russelllumaban/SQLfilters)
 - <b>Python</b>
   - [Update a File Through a Python Algorithm)](https://github.com/russelllumaban/Python)
-
+- <b>Active Directory Home Lab</b>
+  - [Active Directory Practice](https://github.com/russelllumaban/SecurityAuditLab)
+- <b>Azure Home Lab</b>
+  - [Azure Sentinel Practice](https://github.com/russelllumaban/SecurityAuditLab)
 <h2>Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
