@@ -12,9 +12,9 @@
 - <b>Python</b>
   - [Update a File Through a Python Algorithm)](https://github.com/russelllumaban/Python)
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Practice](https://github.com/russelllumaban/SecurityAuditLab)
+  - [Active Directory Practice](https://github.com/russelllumaban/ActiveDirectoryHomeLab)
 - <b>Azure Home Lab</b>
-  - [Azure Sentinel Practice](https://github.com/russelllumaban/SecurityAuditLab)
+  - [Azure Sentinel Practice](https://github.com/russelllumaban/AzureHomeLab)
 <h2>Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
